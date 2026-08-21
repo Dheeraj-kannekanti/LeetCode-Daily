@@ -9,6 +9,8 @@ class Solution:
                     return False
                 elif (stack[-1]=='('and ch==')') or (stack[-1]=='{'and ch=='}') or (stack[-1]=='[' and ch==']'):
                     stack.pop()
+                else:
+                    return False
         return len(stack)==0 
 
 
