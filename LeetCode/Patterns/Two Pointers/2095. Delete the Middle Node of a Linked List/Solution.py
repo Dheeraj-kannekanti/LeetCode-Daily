@@ -11,11 +11,10 @@ class Solution:
             fast.next = None
             return head
         while fast is not None and fast.next is not None:
-            fast = fast.next.next
             prev = slow
             slow = slow.next
+            fast = fast.next.next
         prev.next = slow.next
-
         return head
         
             
