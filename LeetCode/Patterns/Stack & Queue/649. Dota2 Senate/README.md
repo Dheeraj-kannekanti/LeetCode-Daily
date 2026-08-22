@@ -1,6 +1,6 @@
 # 📝 649. Dota2 Senate (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/dota2-senate/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 String, Greedy, Queue
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 19.8 MB
 
 ---
 
