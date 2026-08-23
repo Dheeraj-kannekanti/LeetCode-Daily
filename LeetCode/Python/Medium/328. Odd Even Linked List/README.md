@@ -1,6 +1,6 @@
 # 📝 328. Odd Even Linked List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/odd-even-linked-list/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Linked List
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 20.9 MB
 
 ---
 
