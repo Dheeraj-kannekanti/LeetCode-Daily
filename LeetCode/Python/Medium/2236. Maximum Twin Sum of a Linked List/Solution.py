@@ -17,8 +17,7 @@ class Solution:
             slow = next_node
         first = head
         while prev:
-            twin_sum = first.val + prev.val
-            max_sum = max(max_sum,twin_sum)
+            max_sum = max(max_sum,first.val + prev.val)
             first = first.next
             prev = prev.next
         return max_sum       
