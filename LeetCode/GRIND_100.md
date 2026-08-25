@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 100 (6.0%)
+- **Completed:** 7 / 100 (7.0%)
 
 ---
 
@@ -58,7 +58,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Binary Tree & BST
 - [ ] Invert Binary Tree
 - [ ] Symmetric Tree
-- [ ] Maximum Depth of Binary Tree
+- [x] [Maximum Depth of Binary Tree](./Python/Easy/104. Maximum Depth of Binary Tree/)
 - [ ] Diameter of Binary Tree
 - [ ] Binary Tree Inorder Traversal
 - [ ] Binary Tree Level Order Traversal
