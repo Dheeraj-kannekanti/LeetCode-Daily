@@ -1,15 +1,14 @@
-# DSA LeetCode
-A collection of my daily Data Structures and Algorithms practice and solutions from LeetCode.
+# LeetCode Daily
+
+My daily Data Structures & Algorithms practice on LeetCode.
 
 ## About
-This repository contains my LeetCode solutions written in Python. I use it to track my progress, practice problem-solving, and improve my understanding of DSA concepts.
+- Language: Python
+- Platform: LeetCode
+- Solutions are automatically synced using LeetSync
+- Repository is updated regularly
 
-## Language
-- Python
+## Goal
+Improve problem-solving skills by consistently practicing DSA
+and understanding common problem-solving patterns.
 
-## Platform
-- LeetCode
-
-## Progress
-I regularly update this repository with new problems and solutions.
-> Consistency is the key to improving in DSA.
