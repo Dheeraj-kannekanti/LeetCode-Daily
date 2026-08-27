@@ -14,4 +14,5 @@ class Solution:
             elif nums[mid]==2:
                 nums[right],nums[mid]=nums[mid],nums[right]
                 right-=1
+                
             
